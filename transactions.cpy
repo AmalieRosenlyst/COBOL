@@ -1,0 +1,11 @@
+       02 CPR                      PIC X(15).
+       02 OWNER                    PIC X(30).
+       02 STREET-ADDRESS           PIC X(50).
+       02 BIRTHDAY                 PIC X(10).
+       02 ACCOUNT-ID               PIC X(15).
+       02 REG-NR                   PIC X(4).
+       02 TRANS-VALUE              PIC 9(11)V99.
+       02 VALUTA                   PIC X(3).
+       02 TRANS-TYPE               PIC X(15).
+       02 STORE                    PIC X(20).
+       02 TRANS-TIMESTAMP          PIC X(50).

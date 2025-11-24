@@ -1,0 +1,5 @@
+SIM0000001Bella               Goth                ACCGOTH00001        000150000SIMGoth Manor Boulevard          13   2    L    SimCity             1000SS55510293bella.goth@simworld.com
+SIM0000002Mortimer            Goth                ACCGOTH00002        000999999SIMGoth Manor Boulevard          13   2    R    SimCity             1000SS55520495mortimer.goth@simworld.com
+SIM0000003Bob                 Pancakes            ACCPANCAKES01       000045000SIMMaple Street                  8    1    L    Willow Creek        2000SS55534782bob.pancakes@simmail.com
+SIM0000004Eliza               Pancakes            ACCPANCAKES02       000051250SIMMaple Street                  8    1    R    Willow Creek        2000SS55555812eliza.pancakes@simmail.com
+SIM0000005Don                 Lothario            ACCDONLOTH001       000072500SIMCaliente Avenue               5    PH   L    Oasis Springs       3000SS55599832don.lothario@simworld.com

@@ -1,0 +1,35 @@
+SIM0000001
+Bella Goth
+Goth Manor Boulevard 13 2 L 1000 SimCity SS
+1000 SimCity
+55510293
+bella.goth@simworld.com
+
+SIM0000002
+Mortimer Goth
+Goth Manor Boulevard 13 2 R 1000 SimCity SS
+1000 SimCity
+55520495
+mortimer.goth@simworld.com
+
+SIM0000003
+Bob Pancakes
+Maple Street 8 1 L 2000 Willow Creek SS
+2000 Willow Creek
+55534782
+bob.pancakes@simmail.com
+
+SIM0000004
+Eliza Pancakes
+Maple Street 8 1 R 2000 Willow Creek SS
+2000 Willow Creek
+55555812
+eliza.pancakes@simmail.com
+
+SIM0000005
+Don Lothario
+Caliente Avenue 5 PH L 3000 Oasis Springs SS
+3000 Oasis Springs
+55599832
+don.lothario@simworld.com
+
